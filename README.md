@@ -1,4 +1,4 @@
-# Loopback – Virtual Audio Mixer 
+# Loopback Mac – Virtual Audio Mixer 
 
 <div align="center">  
 <img src="https://images.icon-icons.com/3053/PNG/512/loopback_macos_bigsur_icon_190021.png" alt="Loopback Mac Logo">  
